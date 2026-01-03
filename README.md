@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Utsav Rawat<br>👀 I am interested in software Development, Data Engineering and Cloud computing.<br>👨‍🎓 I completed my Masters from San Jose State University, California, USA (2022 - 2024) <br>📖 Expertise in Data and Software Engineering with Cloud Computing<br>🥇 AWS Certified Solutions Architect - Associate
+👋 Hi, I am Utsav Rawat<br>👀 I am interested in Software Development, Data Engineering and Cloud computing.<br>👨‍🎓 I completed my Masters from San Jose State University, California, USA (2022 - 2024) <br>📖 Expertise in Data and Software Engineering with Cloud Computing<br>🥇 AWS Certified Solutions Architect - Associate
 
 
 ## 🌐 Socials:
